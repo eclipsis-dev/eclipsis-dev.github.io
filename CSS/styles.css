@@ -56,6 +56,12 @@ h1 {
   background-repeat: no-repeat;
   background-position: center; }
 
+.blocks-left-items:nth-child(2):hover {
+  background-image: url(../IMG/3.png);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center; }
+
 .blocks-left-items-text {
   font-size: 1.4em; }
 
@@ -85,6 +91,12 @@ h1 {
 
 .blocks-right-items:first-child:hover {
   background-image: url(../IMG/2.png);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center; }
+
+.blocks-right-items:nth-child(2):hover {
+  background-image: url(../IMG/4.png);
   background-size: 100%;
   background-repeat: no-repeat;
   background-position: center; }
