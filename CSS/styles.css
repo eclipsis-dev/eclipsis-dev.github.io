@@ -56,7 +56,7 @@ h1 {
   background-repeat: no-repeat;
   background-position: center; }
 
-.blocks-left-items-2:nth-child(2):hover {
+.blocks-left-items:nth-child(2):hover {
   background-image: url(../IMG/3.png);
   background-size: 100%;
   background-repeat: no-repeat;
@@ -95,7 +95,7 @@ h1 {
   background-repeat: no-repeat;
   background-position: center; }
 
-.blocks-right-items-2:nth-child(2):hover {
+.blocks-right-items:nth-child(2):hover {
   background-image: url(../IMG/4.png);
   background-size: 100%;
   background-repeat: no-repeat;
