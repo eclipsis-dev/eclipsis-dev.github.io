@@ -50,11 +50,7 @@ h1 {
   color: transparent;
   border: 1px solid transparent; }
 
-div.blocks-left-items-2:hover {
-  background-image: url(../IMG/3.png);
-  background-size: 100%;
-  background-repeat: no-repeat;
-  background-position: center; }
+
 
 .blocks-left-items:first-child:hover {
   background-image: url(../IMG/1.png);
