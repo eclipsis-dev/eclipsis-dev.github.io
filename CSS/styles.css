@@ -50,7 +50,7 @@ h1 {
   color: transparent;
   border: 1px solid transparent; }
 
-.blocks-left-items-2:hover {
+div.blocks-left-items-2:hover {
   background-image: url(../IMG/3.png);
   background-size: 100%;
   background-repeat: no-repeat;
