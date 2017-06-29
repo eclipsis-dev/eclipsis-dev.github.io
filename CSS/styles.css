@@ -50,6 +50,26 @@ h1 {
   color: transparent;
   border: 1px solid transparent; }
 
+.blocks-left-items-2 {
+  height: 16em;
+  width: 34em;
+  border: 1px solid #fff;
+  margin: 2em 1em 2em 1em;
+  line-height: 12em;
+  cursor: pointer;
+  transition: 2s;
+  border-radius: 3px; }
+  @media screen and (max-width: 1176px) {
+    .blocks-left-items {
+      width: 30em; } }
+  @media screen and (max-width: 530px) {
+    .blocks-left-items {
+      width: 25em; } }
+
+.blocks-left-items-2:hover {
+  color: transparent;
+  border: 1px solid transparent; }
+
 .blocks-left-items-2:hover {
   background-image: url(../IMG/3.png);
   background-size: 100%;
