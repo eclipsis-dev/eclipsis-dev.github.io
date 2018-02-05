@@ -215,4 +215,10 @@ address {
   display: inline-block;
   width: 47.5%; }
 
+.reviews {
+  padding-top: 10px;
+  font-size: 12px;
+  text-align: center;
+}
+
 /*# sourceMappingURL=styles.css.map */
