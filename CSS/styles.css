@@ -66,6 +66,22 @@ h1 {
     .blocks-left-items {
       width: 25em; } }
 
+.blocks-left-items-3 {
+  height: 16em;
+  width: 34em;
+  border: 1px solid #fff;
+  margin: 2em 1em 2em 1em;
+  line-height: 12em;
+  cursor: pointer;
+  transition: 2s;
+  border-radius: 3px; }
+  @media screen and (max-width: 1176px) {
+    .blocks-left-items {
+      width: 30em; } }
+  @media screen and (max-width: 530px) {
+    .blocks-left-items {
+      width: 25em; } }
+
 .blocks-left-items-2:hover {
   color: transparent;
   border: 1px solid transparent; }
@@ -121,6 +137,22 @@ h1 {
   border: 1px solid transparent; }
 
 .blocks-right-items-2 {
+  height: 16em;
+  width: 34em;
+  border: 1px solid #fff;
+  margin: 2em 1em 2em 1em;
+  line-height: 12em;
+  cursor: pointer;
+  transition: 2s;
+  border-radius: 3px; }
+  @media screen and (max-width: 1176px) {
+    .blocks-right-items {
+      width: 30em; } }
+  @media screen and (max-width: 530px) {
+    .blocks-right-items {
+      width: 25em; } }
+
+.blocks-right-items-3 {
   height: 16em;
   width: 34em;
   border: 1px solid #fff;
