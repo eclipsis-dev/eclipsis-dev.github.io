@@ -35,7 +35,7 @@ h1 {
   width: 34em;
   border: 1px solid #fff;
   margin: 2em 1em 2em 1em;
-  line-height: 12em;
+  
   cursor: pointer;
   transition: 2s;
   border-radius: 3px; }
@@ -55,7 +55,7 @@ h1 {
   width: 34em;
   border: 1px solid #fff;
   margin: 2em 1em 2em 1em;
-  line-height: 12em;
+  
   cursor: pointer;
   transition: 2s;
   border-radius: 3px; }
@@ -71,7 +71,7 @@ h1 {
   width: 34em;
   border: 1px solid #fff;
   margin: 2em 1em 2em 1em;
-  line-height: 12em;
+  
   cursor: pointer;
   transition: 2s;
   border-radius: 3px; }
@@ -121,7 +121,7 @@ h1 {
   width: 34em;
   border: 1px solid #fff;
   margin: 2em 1em 2em 1em;
-  line-height: 12em;
+  
   cursor: pointer;
   transition: 2s;
   border-radius: 3px; }
@@ -141,7 +141,7 @@ h1 {
   width: 34em;
   border: 1px solid #fff;
   margin: 2em 1em 2em 1em;
-  line-height: 12em;
+  
   cursor: pointer;
   transition: 2s;
   border-radius: 3px; }
@@ -157,7 +157,7 @@ h1 {
   width: 34em;
   border: 1px solid #fff;
   margin: 2em 1em 2em 1em;
-  line-height: 12em;
+  
   cursor: pointer;
   transition: 2s;
   border-radius: 3px; }
@@ -216,9 +216,9 @@ address {
   width: 47.5%; }
 
 .reviews {
+  padding-top: 10px;
   font-size: 12px;
   text-align: center;
-  padding-top: 10px;
 }
 
 /*# sourceMappingURL=styles.css.map */
